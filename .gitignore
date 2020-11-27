@@ -1,0 +1,4 @@
+/target
+Cargo.lock
+.xcopy-sound
+xcopy-sound.desktop
